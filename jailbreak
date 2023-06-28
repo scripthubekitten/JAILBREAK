@@ -1,11 +1,15 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua", true))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua", true))() 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+
+
+
+
+
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
 Description = "discord.gg/productions";
-Title = "left-shift to close UI Key is lnqw1qxfy";
+Title = "left-shift e to close UI Key is lnqw1qxfy";
 Duration = 25;
 });
