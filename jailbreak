@@ -6,6 +6,4 @@ Title = "left-shift to close UI Key is lnqw1qxfy";
 Duration = 25;
 });
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua", true))()
-       
-loadstring(game:HttpGet(%22https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua", true))()      
