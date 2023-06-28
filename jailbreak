@@ -1,0 +1,15 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "backup#6002 .gg/productions";
+    Text = "join .gg/productions";
+
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "backup#6002 .gg/productions";
+    Text = "press left-shift in keyboard to close ui";
+
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua", true))()
+       
+loadstring(game:HttpGet(%22https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
