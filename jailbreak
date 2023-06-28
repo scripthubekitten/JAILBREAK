@@ -1,7 +1,7 @@
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "discord.gg/productions you will need keyboard script";
+Description = "discord.gg/productions you need keyboard script to run this script";
 Title = "left-shift  to close UI Key is lnqw1qxfy";
 Duration = 25;
 });
